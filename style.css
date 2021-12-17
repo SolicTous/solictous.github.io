@@ -99,7 +99,7 @@ ol {
 /* Колонки таблицей */
 
 TABLE {
-    width: 620px; /* Ширина таблицы */
+    width: 600px; /* Ширина таблицы */
     border-bottom: 2px solid #ffffff; /* Линия внизу таблицы */
     background: #ffffff; /* Цвет фона таблицы */
    }
